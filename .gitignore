@@ -3,3 +3,6 @@
 Train
 test.csv
 *.zip
+*.csv
+EDA.ipynb
+kernel.ipynb
